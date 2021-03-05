@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a computer science master's student studying (remotely) at Johns Hopkins University. My interests range from Machine Learning and Computer Vision to Bioinformatics and App Development. Follow me on my programming journey!
+
+***🌱 I’m currently learning ...***
+
+- Mobile App Development for the iOS Platform (Swift)
+- Foundations of Algorithms
+- Foundations of Computer Architecture
