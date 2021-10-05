@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 
 I'm a computer science master's student studying remotely at Johns Hopkins University. My interests range from Machine Learning and Computer Vision to Bioinformatics and App Development. Follow me on my programming journey!
 
+***:fallen_leaf: Fall 2021 ...***
+- Data Visualization
+- Social Media Analytics
+- Information Retrieval
+- Deep Neural Networks
+
 ***:sunny: Summer 2021 ...***
 - Google Summer of Code 2021 @ ML4SCI (Johns Hopkins University Applied Physics Laboratory)
 - Girls Who Code Computer Science Instructor (Virtual Summer Immersion Program)
