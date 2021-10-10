@@ -21,7 +21,6 @@ I'm a computer science master's student studying remotely at Johns Hopkins Unive
 - Data Visualization
 - Social Media Analytics
 - Information Retrieval
-- Deep Neural Networks
 
 ***:sunny: Summer 2021 ...***
 - Google Summer of Code 2021 @ ML4SCI (Johns Hopkins University Applied Physics Laboratory)
