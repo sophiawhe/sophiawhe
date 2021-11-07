@@ -29,7 +29,7 @@ I'm a computer science master's student studying remotely at Johns Hopkins Unive
 ***🌱 Spring 2021 ...***
 
 - Mobile App Development for the iOS Platform (Swift)
-- Foundations of Algorithms
-- Foundations of Computer Architecture
+- Algorithms
+- Computer Organization
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sophiawhe&hide=html&hide_border=true&card_width=320&layout=compact&langs_count=7&text_color=ffffff&icon_color=ffffff&bg_color=0,e66eca,405de6&title_color=ffffff)
