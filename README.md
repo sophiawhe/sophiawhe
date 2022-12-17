@@ -1,4 +1,3 @@
-### Hi, I'm Sophia 👋
 
 <!--
 **sophia-w-he/sophia-w-he** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +12,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### Hi, I'm Sophia 👋
 
 I'm a computer science master's student studying remotely at Johns Hopkins University. Follow me on my programming journey!
 
@@ -31,5 +31,6 @@ I'm a computer science master's student studying remotely at Johns Hopkins Unive
 - Mobile App Development for the iOS Platform (Swift)
 - Algorithms
 - Computer Organization
+-->
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sophiawhe&hide=html&hide_border=true&card_width=320&layout=compact&langs_count=7&text_color=ffffff&icon_color=ffffff&bg_color=0,e66eca,405de6&title_color=ffffff)
